@@ -1,5 +1,6 @@
 # ▎항상공부 해야하는 개발자 <br>
-![Zhao's GitHub stats](https://github-readme-stats.vercel.app/api?ErosBryant=anuraghazra&show_icons=true&theme=radical)
+[![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuangXun ZHao)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="center"><b>🛠 My Stack 🛠</b></h3>
 </br>
