@@ -1,6 +1,5 @@
 # ▎항상공부 해야하는 개발자 <br>
-[![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosBryant)](https://github.com/anuraghazra/github-readme-stats)
-![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosBryant&hide=contribs,prs)
+[![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosBryant)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
 <h3 align="center"><b>🛠 My Stack 🛠</b></h3>
 </br>
