@@ -13,3 +13,4 @@
 <a href="mailto:guangxun0621@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-005FF9?style=flat-square&logo=Gmail&logoColor=white"/></a></p>
 
 [![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosBryant&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErosBryant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
