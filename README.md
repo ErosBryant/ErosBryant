@@ -11,6 +11,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp <br>
 <a href="mailto:guangxun0621@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-005FF9?style=flat-square&logo=Gmail&logoColor=white"/></a></p>
-
+<img src="https://img.shields.io/badge/YEYEYEYE-000000?style=flat-square&logo=AngeList&logoColor=white"/>&nbsp 
 [![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosBryant&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
