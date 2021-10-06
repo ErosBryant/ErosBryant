@@ -1,4 +1,7 @@
 # ▎항상공부 해야하는 개발자 <br>
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=BoYeonJang&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoYeonJang&layout=compact&theme=material-palenight)
+<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BoYeonJang&layout=compact&theme=material-palenight) -->
 
 <h3 align="center"><b>🛠 My Stack 🛠</b></h3>
 </br>
