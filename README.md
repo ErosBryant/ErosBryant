@@ -2,7 +2,7 @@
 # <img src="https://img.shields.io/badge/Univ-2E9FFF?style=flat-square&logo=Disqus&logoColor=white"/> Dankook
 # <img src="https://img.shields.io/badge/Lab-2E9FFF?style=flat-square&logo=Disqus&logoColor=white"/> Embedded
 
-<h2 align="center"><b>🛠 My Stack 🛠</b></h2>
+<h3 align="center"><b>🛠 My Stack 🛠</b></h3>
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
