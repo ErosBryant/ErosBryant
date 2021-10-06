@@ -1,6 +1,6 @@
 # ▎常に開発する開発者<br>
 # <img src="https://img.shields.io/badge/Univ-D22128?style=flat-square&logo=Apache&logoColor=white"/> Dankook
-# ▎Embedded Lab
+# <img src="https://img.shields.io/badge/Lab-C71A36?style=flat-square&logo=Apache ECharts&logoColor=white"/>Embedded
 
 <h3 align="center"><b>🛠 My Stack 🛠</b></h3>
 </br>
