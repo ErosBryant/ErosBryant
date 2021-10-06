@@ -13,5 +13,5 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp <br>
 <a href="mailto:guangxun0621@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-005FF9?style=flat-square&logo=Gmail&logoColor=white"/></a></p>
 
-[![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosBryant&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)&nbsp
+[![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosBryant&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)</t>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErosBryant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
