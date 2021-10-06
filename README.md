@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp <br>
-<a href="mailto:guangxun0621@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a></p>
+<a href="mailto:guangxun0621@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Vimeo&logoColor=white"/></a></p>
 
 [![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosBryant&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
