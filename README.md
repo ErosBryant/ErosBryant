@@ -15,4 +15,4 @@
 
 &emsp;&emsp;[![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosBryant&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 &nbsp;&nbsp;&emsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErosBryant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErosBryant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
