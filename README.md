@@ -1,4 +1,4 @@
-# ▎常に開発する開発者<br>
+# ▎Learning new knowledge is my destiny<br>
 # <img src="https://img.shields.io/badge/Univ-2E9FFF?style=flat-square&logo=Disqus&logoColor=white"/> Dankook
 # <img src="https://img.shields.io/badge/Lab-2E9FFF?style=flat-square&logo=Disqus&logoColor=white"/> Embedded
 
