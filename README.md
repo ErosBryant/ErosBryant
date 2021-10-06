@@ -1,5 +1,5 @@
 # ▎항상공부 해야하는 개발자 <br>
-[![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosBryant&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosBryant&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center"><b>🛠 My Stack 🛠</b></h3>
 </br>
