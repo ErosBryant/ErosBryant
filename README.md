@@ -1,5 +1,5 @@
 # ▎常に開発する開発者<br>
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/> Dankook Univ
+<img src="https://img.shields.io/badge/D22128?style=flat-square&logo=Apache&logoColor=white"/> Dankook Univ
 # ▎Embedded Lab
 
 <h3 align="center"><b>🛠 My Stack 🛠</b></h3>
