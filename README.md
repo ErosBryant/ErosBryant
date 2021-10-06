@@ -1,6 +1,6 @@
 # ▎常に開発する開発者<br>
 # ▎Dankook Univ
-# ▎Embedded Lab
+ ▎Embedded Lab
 
 <h3 align="center"><b>🛠 My Stack 🛠</b></h3>
 </br>
