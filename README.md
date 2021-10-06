@@ -3,7 +3,7 @@
 # <img src="https://img.shields.io/badge/Lab-2E9FFF?style=flat-square&logo=Disqus&logoColor=white"/> Embedded
 
 <h2 align="center"><b>🛠 My Stack 🛠</b></h2>
-</br>
+
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
