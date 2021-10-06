@@ -1,4 +1,5 @@
 # ▎항상공부 해야하는 개발자 <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <h3 align="center"><b>🛠 My Stack 🛠</b></h3>
 </br>
