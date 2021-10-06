@@ -1,4 +1,4 @@
-# ▎항상공부 해야하는 개발자 <br>
+# ▎いつもべんきょする 開発者<br>
 [![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosBryant&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 # ▎Dankook Univ
 <h3 align="center"><b>🛠 My Stack 🛠</b></h3>
