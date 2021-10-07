@@ -1,6 +1,6 @@
 # ▎Learning new knowledge is my destiny<br>
-<img src="https://img.shields.io/badge/Univ-2E9FFF?style=flat-square&logo=Disqus&logoColor=white"/><h3>Dankook</h3>
-<img src="https://img.shields.io/badge/Lab-2E9FFF?style=flat-square&logo=Disqus&logoColor=white"/><h3>Embedded</h3>
+<h3>♠Dankook</h3>
+<h3>♤Embedded</h3>
 
 <h3 align="center"><b>🛠 My Stack 🛠</b></h3>
 
