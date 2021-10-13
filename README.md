@@ -16,8 +16,5 @@
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=guang)](https://solved.ac/guang)
 
-
-
-[![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosBryant&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-&nbsp;&nbsp;&emsp;
-&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErosBryant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosBryant&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErosBryant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
