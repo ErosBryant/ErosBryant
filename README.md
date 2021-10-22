@@ -15,5 +15,8 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FErosBryant&count_bg=%231B1B1A&title_bg=%235C5C5C&icon=katana.svg&icon_color=%23131212&title=Eros&edge_flat=false"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=guang)](https://solved.ac/guang)
-[![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosBryant&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+    [![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosBryant&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErosBryant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
