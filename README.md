@@ -21,4 +21,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErosBryant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-![image](https://user-images.githubusercontent.com/86946575/143828680-f1e99799-7c03-43e7-8ff0-6e3189736ced.png)
+
