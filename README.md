@@ -1,7 +1,8 @@
 # ▎Learning new knowledge is my destiny<br>
 <h3>♠Dankook</h3>
 <h3>♠Embedded</h3>
-
+### [이력서&포트폴리오](https://www.notion.so/ZHAO-GUANGXUN-9775932988e5423bb922a2ab13e9927d)
+[![Tech Blog Badge](https://img.shields.io/badge/-%EC%9D%B4%EB%A0%A5%EC%84%9C&%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-000000?style=flat-square&logo=notion&link=https://fast-paradox-f5f.notion.site/Kim-Do-Young-620805a3c5cf4f55b5e494bd53fdde29)](https://www.notion.so/ZHAO-GUANGXUN-9775932988e5423bb922a2ab13e9927d)) 
 <h3 align="center"><b>🛠 My Stack 🛠</b></h3>
 
 <p align="center">
