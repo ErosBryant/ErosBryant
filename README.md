@@ -1,5 +1,5 @@
 # ▎Learning new knowledge is my destiny<br>
-<h3>♠Dankook Univ</h3>
+<h3>🐻Dankook Univ</h3>
 <h3>♠Embedded (System software)</h3>
 
 
