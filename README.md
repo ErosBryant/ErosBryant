@@ -21,4 +21,4 @@
     [![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosBryant&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-![image](https://user-images.githubusercontent.com/86946575/145840727-4031a7d0-6e0c-4f29-b296-72e999446504.png)
+![image](https://user-images.githubusercontent.com/86946575/149697203-aa3cb2e0-2181-4cec-9281-436c61638b76.png)
