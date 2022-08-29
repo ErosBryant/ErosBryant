@@ -1,6 +1,6 @@
 # ▎Learning new knowledge is my destiny<br>
 <h3>🐻Dankook Univ</h3>
-<h3>♠System software Lab</h3>
+<h3>♠System Software Lab</h3>
 
 
 <h3 align="center"><b>🛠 My Stack 🛠</b></h3>
