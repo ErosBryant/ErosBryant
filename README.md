@@ -17,10 +17,10 @@
 
 
 
-    
+
+<!--    
 [![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosBryant&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 ![KakaoTalk_20211006_140246921](https://user-images.githubusercontent.com/86946575/169213961-86aae2a4-3ae8-4434-b6cd-b4168ddf4cc8.jpg)
 
 
