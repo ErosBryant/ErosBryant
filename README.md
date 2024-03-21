@@ -33,3 +33,5 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FErosBryant&count_bg=%231B1B1A&title_bg=%235C5C5C&icon=katana.svg&icon_color=%23131212&title=Eros&edge_flat=false"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
+Korea conference papaer ： 7
+international conference ： 1
