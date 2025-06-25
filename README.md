@@ -2,8 +2,8 @@
 <h3>🐻Dankook Univ</h3>
 <h3>♠System Software Lab</h3>
 
-Korea conference papers: **7**  
-International conference papers: **1**
+Korea conference papers: **11**  
+International conference papers: **3**
 
 <h3 align="center"><b>🛠 My Stack 🛠</b></h3>
 
