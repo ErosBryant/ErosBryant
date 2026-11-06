@@ -15,19 +15,7 @@ International conference papers: **3**
 <a href="mailto:guangxun0621@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
 </p>
 
-<!-- GitHub Stats & Badges -->
-<p align="center">
-    <!-- GitHub Stats -->
-    <a href="https://github.com/ErosBryant">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErosBryant&show_icons=true&theme=graywhite" />
-    </a>
-    <!-- Solved.ac Profile -->
-    <a href="https://solved.ac/guang">
-        <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guang" />
-    </a>
-</p>
 
----
 
 ## About Me
 
